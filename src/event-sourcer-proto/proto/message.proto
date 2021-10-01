@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+//import google_protobuf "github.com/golang/protobuf/ptypes/timestamp"
+
+package tutorial;
+
+message UUID {
+    string value = 1;
+}
+
+message LogMessage {
+    string schema_version = 1;
+
+    message MetaData {
+        UUID unique_id = 1 ;
+        string message_type = 2;
+        string timestamp = 3;
+    }
+
+    MetaData metadata = 2;
+
+//    Timestamp s = 3;
+
+}

@@ -1,0 +1,7 @@
+setup.py
+beam_protos/__init__.py
+beam_protos/afd_simplified_pb2.py
+beam_protos.egg-info/PKG-INFO
+beam_protos.egg-info/SOURCES.txt
+beam_protos.egg-info/dependency_links.txt
+beam_protos.egg-info/top_level.txt

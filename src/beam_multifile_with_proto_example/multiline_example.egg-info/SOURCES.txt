@@ -1,0 +1,8 @@
+setup.py
+multiline_example.egg-info/PKG-INFO
+multiline_example.egg-info/SOURCES.txt
+multiline_example.egg-info/dependency_links.txt
+multiline_example.egg-info/top_level.txt
+pipeline/__init__.py
+pipeline/pipeline.py
+pipeline/test_pb2.py

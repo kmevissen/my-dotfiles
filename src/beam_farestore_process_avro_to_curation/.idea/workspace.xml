@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d31d44a-8f63-4f85-9063-7a6acc2e4ae1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iac6AeLx9anovFiuaisIoyiX5Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pipeline" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="beam_farestore_process_avro_to_curation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pipeline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="beam_farestore_process_avro_to_curation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pipeline" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pipeline/pipeline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.pipeline" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d31d44a-8f63-4f85-9063-7a6acc2e4ae1" name="Default Changelist" comment="" />
+      <created>1602148966053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602148966053</updated>
+      <workItem from="1602148968578" duration="6744000" />
+      <workItem from="1602571471754" duration="481000" />
+      <workItem from="1603202441545" duration="532000" />
+      <workItem from="1603347869583" duration="141000" />
+      <workItem from="1603698785796" duration="488000" />
+      <workItem from="1604141383526" duration="459000" />
+      <workItem from="1604403386406" duration="1718000" />
+      <workItem from="1604863924194" duration="36000" />
+      <workItem from="1605269825489" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605269882494">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="369" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-482.-1417.2560.1417@0.23.1440.877" timestamp="1605269882494" />
+    <state x="744" y="-1047" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/0.-1417.2560.1417@0.-1417.2560.1417" timestamp="1604418761664" />
+    <state x="1069" y="-947" key="FileChooserDialogImpl" timestamp="1602150339955">
+      <screen x="0" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="1069" y="-947" key="FileChooserDialogImpl/0.23.1440.877/0.-1417.2560.1417@0.-1417.2560.1417" timestamp="1602150339955" />
+    <state width="1398" height="459" key="GridCell.Tab.0.bottom" timestamp="1605270092773">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="459" key="GridCell.Tab.0.bottom/0.23.1440.877/-482.-1417.2560.1417@0.23.1440.877" timestamp="1605270092773" />
+    <state width="2518" height="501" key="GridCell.Tab.0.bottom/0.23.1440.877/0.-1417.2560.1417@0.-1417.2560.1417" timestamp="1602166630870" />
+    <state width="1398" height="400" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604790069103" />
+    <state width="1398" height="459" key="GridCell.Tab.0.center" timestamp="1605270092773">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="459" key="GridCell.Tab.0.center/0.23.1440.877/-482.-1417.2560.1417@0.23.1440.877" timestamp="1605270092773" />
+    <state width="2518" height="501" key="GridCell.Tab.0.center/0.23.1440.877/0.-1417.2560.1417@0.-1417.2560.1417" timestamp="1602166630870" />
+    <state width="1398" height="400" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1604790069102" />
+    <state width="1398" height="459" key="GridCell.Tab.0.left" timestamp="1605270092772">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="459" key="GridCell.Tab.0.left/0.23.1440.877/-482.-1417.2560.1417@0.23.1440.877" timestamp="1605270092772" />
+    <state width="2518" height="501" key="GridCell.Tab.0.left/0.23.1440.877/0.-1417.2560.1417@0.-1417.2560.1417" timestamp="1602166630869" />
+    <state width="1398" height="400" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1604790069100" />
+    <state width="1398" height="459" key="GridCell.Tab.0.right" timestamp="1605270092773">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="459" key="GridCell.Tab.0.right/0.23.1440.877/-482.-1417.2560.1417@0.23.1440.877" timestamp="1605270092773" />
+    <state width="2518" height="501" key="GridCell.Tab.0.right/0.23.1440.877/0.-1417.2560.1417@0.-1417.2560.1417" timestamp="1602166630870" />
+    <state width="1398" height="400" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1604790069103" />
+    <state width="2518" height="501" key="GridCell.Tab.1.bottom" timestamp="1602166632548">
+      <screen x="0" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.1.bottom/0.23.1440.877/0.-1417.2560.1417@0.-1417.2560.1417" timestamp="1602166632548" />
+    <state width="2518" height="501" key="GridCell.Tab.1.center" timestamp="1602166632547">
+      <screen x="0" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.1.center/0.23.1440.877/0.-1417.2560.1417@0.-1417.2560.1417" timestamp="1602166632547" />
+    <state width="2518" height="501" key="GridCell.Tab.1.left" timestamp="1602166632547">
+      <screen x="0" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.1.left/0.23.1440.877/0.-1417.2560.1417@0.-1417.2560.1417" timestamp="1602166632547" />
+    <state width="2518" height="501" key="GridCell.Tab.1.right" timestamp="1602166632548">
+      <screen x="0" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.1.right/0.23.1440.877/0.-1417.2560.1417@0.-1417.2560.1417" timestamp="1602166632548" />
+    <state x="443" y="178" key="SettingsEditor" timestamp="1605270088268">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="443" y="178" key="SettingsEditor/0.23.1440.877/-482.-1417.2560.1417@0.23.1440.877" timestamp="1605270088268" />
+    <state x="790" y="-1070" key="SettingsEditor/0.23.1440.877/0.-1417.2560.1417@0.-1417.2560.1417" timestamp="1602150343406" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1604863957460">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1604863957460" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/beam_farestore_process_avro_to_curation$main.coverage" NAME="main Coverage Results" MODIFIED="1605269864104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/beam_farestore_process_avro_to_curation$pipeline.coverage" NAME="pipeline Coverage Results" MODIFIED="1602153633986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pipeline" />
+  </component>
+</project>

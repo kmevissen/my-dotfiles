@@ -1,0 +1,17 @@
+.idea
+.project
+*.bkp
+*.egg-info
+*.pyc
+.DS_Store
+.ipynb*
+.coverage
+build
+cover
+docs/_*
+dist
+env
+MANIFEST
+
+# Keep secret keys out of version control
+secret_keys.py
