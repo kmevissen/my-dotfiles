@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 30 16:25:57 CEST 2020
+checker-qual-2.5.2.pom>central=
+checker-qual-2.5.2.pom>nexus=
+checker-qual-2.5.2.jar>nexus=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 30 13:41:35 CET 2019
+maven-dependency-plugin-2.8.pom>central=
+maven-dependency-plugin-2.8.pom>nexus=
+maven-dependency-plugin-2.8.jar>nexus=
+maven-dependency-plugin-2.8.jar>central=

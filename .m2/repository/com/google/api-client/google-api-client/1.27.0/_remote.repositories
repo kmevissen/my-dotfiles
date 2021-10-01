@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 30 11:25:58 CET 2019
+google-api-client-1.27.0.jar>central=
+google-api-client-1.27.0.pom>nexus=
+google-api-client-1.27.0.jar>nexus=
+google-api-client-1.27.0.pom>central=

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.spotify</groupId>
+  <artifactId>dbeam-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.12-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200330152843</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 18 17:30:34 CET 2020
+beam-sdks-java-core-2.19.0.pom>nexus=
+beam-sdks-java-core-2.19.0.jar>nexus=
+beam-sdks-java-core-2.19.0-sources.jar>nexus=
+beam-sdks-java-core-2.19.0-javadoc.jar>nexus=

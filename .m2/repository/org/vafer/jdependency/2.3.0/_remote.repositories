@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 30 16:31:49 CEST 2020
+jdependency-2.3.0.jar>nexus=
+jdependency-2.3.0.pom>nexus=

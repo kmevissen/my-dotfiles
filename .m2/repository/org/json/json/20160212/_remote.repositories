@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 30 11:25:58 CET 2019
+json-20160212.jar>nexus=
+json-20160212.pom>central=
+json-20160212.jar>central=
+json-20160212.pom>nexus=

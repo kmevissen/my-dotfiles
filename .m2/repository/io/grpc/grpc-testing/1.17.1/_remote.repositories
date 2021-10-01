@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 30 11:25:58 CET 2019
+grpc-testing-1.17.1.pom>nexus=
+grpc-testing-1.17.1.jar>nexus=
+grpc-testing-1.17.1.pom>central=
+grpc-testing-1.17.1.jar>central=

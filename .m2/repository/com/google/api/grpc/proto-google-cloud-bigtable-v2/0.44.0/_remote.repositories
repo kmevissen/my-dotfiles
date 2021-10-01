@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 30 11:25:58 CET 2019
+proto-google-cloud-bigtable-v2-0.44.0.jar>central=
+proto-google-cloud-bigtable-v2-0.44.0.pom>nexus=
+proto-google-cloud-bigtable-v2-0.44.0.jar>nexus=
+proto-google-cloud-bigtable-v2-0.44.0.pom>central=

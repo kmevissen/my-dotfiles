@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 30 11:25:58 CET 2019
+beam-vendor-grpc-1_21_0-0.1.pom>central=
+beam-vendor-grpc-1_21_0-0.1.pom>nexus=
+beam-vendor-grpc-1_21_0-0.1.jar>central=
+beam-vendor-grpc-1_21_0-0.1.jar>nexus=

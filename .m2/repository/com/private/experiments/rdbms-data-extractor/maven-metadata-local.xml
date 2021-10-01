@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.private.experiments</groupId>
+  <artifactId>rdbms-data-extractor</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200326135344</lastUpdated>
+  </versioning>
+</metadata>

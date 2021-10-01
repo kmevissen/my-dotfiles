@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 30 13:41:40 CET 2019
+maven-common-artifact-filters-3.0.1.jar>central=
+maven-common-artifact-filters-3.0.1.pom>central=
+maven-common-artifact-filters-3.0.1.pom>nexus=
+maven-common-artifact-filters-3.0.1.jar>nexus=

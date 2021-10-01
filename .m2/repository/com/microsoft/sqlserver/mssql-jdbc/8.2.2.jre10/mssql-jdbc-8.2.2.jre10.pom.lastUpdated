@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 26 22:36:41 CET 2020
+0e90611405c2dafa1052c1e114d72338c7b006c6@default-nexus-https\://nexus3.travix.tech/repository/maven-public/.lastUpdated=1585258601045
+https\://nexus3.travix.tech/repository/maven-public/.error=Could not transfer artifact com.microsoft.sqlserver\:mssql-jdbc\:pom\:8.2.2.jre10 from/to nexus (https\://nexus3.travix.tech/repository/maven-public/)\: Access denied to\: https\://nexus3.travix.tech/repository/maven-public/com/microsoft/sqlserver/mssql-jdbc/8.2.2.jre10/mssql-jdbc-8.2.2.jre10.pom , ReasonPhrase\:Forbidden.

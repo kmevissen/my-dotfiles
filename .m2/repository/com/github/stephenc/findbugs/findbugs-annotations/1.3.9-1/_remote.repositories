@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 18 17:14:44 CET 2020
+findbugs-annotations-1.3.9-1.pom>nexus=
+findbugs-annotations-1.3.9-1.jar>central=
+findbugs-annotations-1.3.9-1.pom>central=

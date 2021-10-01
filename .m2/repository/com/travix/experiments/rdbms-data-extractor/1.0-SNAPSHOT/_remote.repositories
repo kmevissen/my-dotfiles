@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 30 12:30:08 CEST 2020
+rdbms-data-extractor-1.0-SNAPSHOT.jar>=
+rdbms-data-extractor-1.0-SNAPSHOT.pom>=
