@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 03 14:43:42 CEST 2021
-0e90611405c2dafa1052c1e114d72338c7b006c6@default-nexus-https\://nexus3.travix.tech/repository/maven-public/.lastUpdated=1630673022483
-https\://nexus3.travix.tech/repository/maven-public/.error=Could not transfer artifact com.puppycrawl.tools\:checkstyle\:pom\:8.29 from/to nexus (https\://nexus3.travix.tech/repository/maven-public/)\: Transfer failed for https\://nexus3.travix.tech/repository/maven-public/com/puppycrawl/tools/checkstyle/8.29/checkstyle-8.29.pom

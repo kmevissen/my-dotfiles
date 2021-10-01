@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Mar 30 22:54:12 CEST 2020
-maven-invoker-2.0.11.pom>nexus=
-maven-invoker-2.0.11.pom>central=
-maven-invoker-2.0.11.jar>nexus=
-maven-invoker-2.0.11.jar>central=

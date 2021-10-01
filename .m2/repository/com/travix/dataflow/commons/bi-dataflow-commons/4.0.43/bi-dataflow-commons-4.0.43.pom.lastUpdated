@@ -1,9 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Dec 30 11:25:27 CET 2019
-https\://repo.maven.apache.org/maven2/.lastUpdated=1577701039907
-http\://central/.error=Could not transfer artifact com.travix.dataflow.commons\:bi-dataflow-commons\:pom\:4.0.43 from/to nexus (http\://central)\: central
-https\://travix-int.myget.org/F/private-maven/auth/87f3b272-0c78-41a4-b049-363b3fca3481/maven/.error=
-https\://repo.maven.apache.org/maven2/.error=
-https\://nexus3.travix.tech/repository/maven-public/.lastUpdated=1577701527177
-@default-nexus-http\://central/.lastUpdated=1577701039963
-https\://travix-int.myget.org/F/private-maven/auth/87f3b272-0c78-41a4-b049-363b3fca3481/maven/.lastUpdated=1577701039960

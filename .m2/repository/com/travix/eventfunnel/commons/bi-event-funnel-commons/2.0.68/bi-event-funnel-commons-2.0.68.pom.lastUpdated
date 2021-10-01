@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 03 14:39:52 CEST 2021
-0e90611405c2dafa1052c1e114d72338c7b006c6@default-nexus-https\://nexus3.travix.tech/repository/maven-public/.lastUpdated=1630672792326
-https\://nexus3.travix.tech/repository/maven-public/.error=Could not transfer artifact com.travix.eventfunnel.commons\:bi-event-funnel-commons\:pom\:2.0.68 from/to nexus (https\://nexus3.travix.tech/repository/maven-public/)\: Transfer failed for https\://nexus3.travix.tech/repository/maven-public/com/travix/eventfunnel/commons/bi-event-funnel-commons/2.0.68/bi-event-funnel-commons-2.0.68.pom
