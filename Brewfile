@@ -1,5 +1,7 @@
+tap "buo/cask-upgrade"
 tap "homebrew/bundle"
 tap "homebrew/cask"
+tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/services"
@@ -23,6 +25,7 @@ brew "grep"
 brew "httpie"
 brew "imagemagick"
 brew "jq"
+brew "mas"
 brew "maven"
 brew "octave"
 brew "openssh"
@@ -58,3 +61,9 @@ cask "slack"
 cask "spectacle"
 cask "spotify"
 cask "visual-studio-code"
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Todoist", id: 585829637
