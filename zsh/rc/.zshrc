@@ -113,8 +113,10 @@ if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
 # Python pyenv and virtualenvs
 export PYENV_ROOT="${HOME}/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
+
 
 # Go development
 export GOPATH="${HOME}/.go"

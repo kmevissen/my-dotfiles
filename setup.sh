@@ -13,19 +13,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/inst
 # Installing all brew packages
 brew bundle
 
-stow bash -t $HOME
 
-rm -f $HOME/.zshrc
-stow zsh/rc -t $HOME
-
-rm -f $ZSH_CUSTOM/aliases.zsh
-stow zsh/aliases -t $ZSH_CUSTOM
-
-
-rm -f $ZSH_CUSTOM/themes/*
-stow zsh/themes -t $ZSH_CUSTOM/themes
-
-stow maven -t $HOME
+.all_stows.sh
 
 # git
 stow git -t $HOME/
