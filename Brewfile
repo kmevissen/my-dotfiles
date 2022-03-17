@@ -58,7 +58,6 @@ cask "mysqlworkbench"
 cask "pycharm"
 cask "royal-tsx"
 cask "slack"
-cask "spectacle"
 cask "spotify"
 cask "visual-studio-code"
 mas "GarageBand", id: 682658836
