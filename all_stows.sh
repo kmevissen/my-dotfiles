@@ -10,7 +10,3 @@ rm -f $ZSH_CUSTOM/aliases.zsh
 
 rm -f $ZSH_CUSTOM/themes/*
 (cd zsh && stow themes -t $ZSH/custom/themes)
-
-
-# TODO: fix the .m2 settings file
-# stow maven -t $HOME
